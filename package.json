@@ -1,0 +1,11 @@
+{
+  "name": "simple-let-code",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node run-tests.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
